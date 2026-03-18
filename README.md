@@ -13,7 +13,8 @@ My Manual covers the entire C++ ecosystem. In this manual there will be both the
 * **Data Structures:** Array, Strings, Struct , Advanced Data Structures
 
 ## Manual Availability
-The manual file is available in Italian in this Repository ( My_CPP_Manual.pdf )
+The manual file is available in Italian in this Repository 
+( My_CPP_Manual.pdf )
 
 ## License
 This work is distributed under license **Creative Commons Attribution -NonCommercial - NonDerivatives 4.0 International**
