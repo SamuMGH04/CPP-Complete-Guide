@@ -1,7 +1,7 @@
 # My C++ manual: From basics to Data Structures and Advanced OOP
 ![Language: Italian](https://img.shields.io/badge/Language-Italian-green?style=for-the-badge)
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Pages](https://img.shields.io/badge/Pages-87-orange?style=for-the-badge)
+
 
 ## Principal Contents
 My Manual covers the entire C++ ecosystem. In this manual there will be both theoretical and exercises parts.
