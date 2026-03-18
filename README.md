@@ -22,5 +22,4 @@ This work is distributed under license **Creative Commons Attribution -NonCommer
 [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 > [!IMPORTANT]
-> You can share, copy and download the material, but you must give appropriate credits. You can't use the material for commercial purpose and you can't distribute the material if you modify it.
-
+> You can share, copy and download the material, but you must give appropriate credits. You can't use the material for commercial purpose and you can't modify or change the text
